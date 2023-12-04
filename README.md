@@ -56,7 +56,7 @@
   - Bootstrap
   - cPanel
     
-- My wedding's digital invitation
+- My wedding's digital invitation (https://w.hanifrodili.com)
   - Vanilla HTML/CSS/Javascript
   - Vanilla PHP
   - MySQL/phpMyAdmin
