@@ -30,7 +30,7 @@
 
 ## Previous work
 ### Paid freelance
-- QH Synergy company's website (https://qhsynergy.com)
+- QH Synergy company's website (http://qhsynergy.com)
   - cPanel
   - Wordpress
   - Divi theme
