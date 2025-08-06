@@ -3,17 +3,18 @@
 ## Basic information
 - Born in Kulim on 1994.
 - Graduated from Universiti Malaysia Perlis, BEng. Tech.(Hon.) Electronic (Electronic Network Design)
-- A web developer since 2017
+- A versatile web developer since 2017
 
-## My tech stack history
+## My tech stack
 ### Frontend
 - Vanilla HTML/CSS/Javascript
-- Bootstrap
-- jQuery
-- VueJs/NuxtJs
-- Vuetify
+- Vue
+- Nuxt
 - Tailwind CSS
 - Sass/Scss
+- Bootstrap
+- jQuery
+  
 
 ### Backend
 - PHP
@@ -22,6 +23,7 @@
 ### Database
 - MySQL
 - SQLite
+- Supabase
 
 ### CMS
 - Wordpress
@@ -63,21 +65,19 @@
   - Bootstrap
   - toyyibPay
     
-- My Vue2 Playground while at Yezza (https://vue.hanifrodili.com)
+- Page Builder (https://vue.hanifrodili.com/mypagebuilder)
   - Vue 2
   - Vuetify
-  - Firebase Hosting
     
-- Hire me landing page (https://hire.hanifrodili.com)
-  - Vite/Vue3
-  - Tailwind CSS
-  - Supabase
+- Unofficial Rujukan MyKasih (https://rakan-niaga-mykasih.vercel.app/)
+  - Nuxt 3
+  - Nuxt UI
   - Vercel
  
 ## Discontinued Project
 - RoketPage (https://roketpage-merchant.vercel.app)
-  - Vite/Nuxt3
-  - Vuetify3
+  - Vite/Nuxt 3
+  - Vuetify 3
   - Supabase
  
 Till then, have a good day 🫡
