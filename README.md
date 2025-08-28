@@ -3,7 +3,7 @@
 ## Basic information
 - Born in Kulim on 1994.
 - Graduated from Universiti Malaysia Perlis, BEng. Tech.(Hon.) Electronic (Electronic Network Design)
-- A versatile web developer since 2017
+- A versatile web developer and programmer since 2012
 
 ## My tech stack
 ### Frontend
